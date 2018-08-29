@@ -36,9 +36,5 @@ void IR15();
 void IR16();
 void ledArray();
 
-private
-int _ledPins;
-MCP _ledExpander;
-
 };
 #endif
