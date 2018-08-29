@@ -11,11 +11,15 @@
 
  irArray:: irArray (MCP ledExpander)
  {
-   ledExpander.begin(); //Start the Led Expander SPI communication
+
  }
 
- irArray : : irArray (int ledPins)
+ irArray : : irArray (int ledPins[])
  {
+    ledPins[] = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16};//Set Led Pin to corresponding I/O Expander pin
+
+
+    ledExpander.begin(); //Start the Led Expander SPI communication
     ledExpander.pinMode (ledPins[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],LOW)// initialize all pins as output
 
  }

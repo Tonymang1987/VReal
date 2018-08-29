@@ -13,7 +13,7 @@
 #include <MCP23S17.h>
 #include <SPI.h>
 
-class irArray;
+class irArray
 {
 public
 irArray(MCP ledExpander);
@@ -36,5 +36,7 @@ void IR15();
 void IR16();
 void ledArray();
 
+private
+int ledPins[];
 };
 #endif
