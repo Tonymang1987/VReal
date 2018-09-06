@@ -6,8 +6,6 @@
 
 MCP ledExpander(1,10);  // create an object at address 1 called "LedExpander"  Slave Select Pin 10
 
-
-
 int ledPins[]= {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16};//Set Led Pin to corresponding I/O Expander pin 
 
 void setup() 
