@@ -1,0 +1,41 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/share/cmake-3.12/Modules/CMakeCInformation.cmake
+C:/Program Files (x86)/share/cmake-3.12/Modules/CMakeCXXInformation.cmake
+C:/Program Files (x86)/share/cmake-3.12/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/share/cmake-3.12/Modules/CMakeGenericSystem.cmake
+C:/Program Files (x86)/share/cmake-3.12/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files (x86)/share/cmake-3.12/Modules/CMakeLanguageInformation.cmake
+C:/Program Files (x86)/share/cmake-3.12/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/share/cmake-3.12/Modules/CMakeRCInformation.cmake
+C:/Program Files (x86)/share/cmake-3.12/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files (x86)/share/cmake-3.12/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files (x86)/share/cmake-3.12/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files (x86)/share/cmake-3.12/Modules/Compiler/MSVC-C.cmake
+C:/Program Files (x86)/share/cmake-3.12/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files (x86)/share/cmake-3.12/Modules/FindBoost.cmake
+C:/Program Files (x86)/share/cmake-3.12/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files (x86)/share/cmake-3.12/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files (x86)/share/cmake-3.12/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files (x86)/share/cmake-3.12/Modules/Platform/Windows.cmake
+C:/Program Files (x86)/share/cmake-3.12/Modules/Platform/WindowsPaths.cmake
+C:/Users/User/Desktop/VR DEV/OSVR-Core-Snapshot-v0.6-2118-gd690c5ef-build3-vs12-64bit/lib/cmake/libfunctionality/libfunctionalityConfig.cmake
+C:/Users/User/Desktop/VR DEV/OSVR-Core-Snapshot-v0.6-2118-gd690c5ef-build3-vs12-64bit/lib/cmake/libfunctionality/libfunctionalityConfigVersion.cmake
+C:/Users/User/Desktop/VR DEV/OSVR-Core-Snapshot-v0.6-2118-gd690c5ef-build3-vs12-64bit/lib/cmake/libfunctionality/libfunctionalityTargets-debug.cmake
+C:/Users/User/Desktop/VR DEV/OSVR-Core-Snapshot-v0.6-2118-gd690c5ef-build3-vs12-64bit/lib/cmake/libfunctionality/libfunctionalityTargets-relwithdebinfo.cmake
+C:/Users/User/Desktop/VR DEV/OSVR-Core-Snapshot-v0.6-2118-gd690c5ef-build3-vs12-64bit/lib/cmake/libfunctionality/libfunctionalityTargets.cmake
+C:/Users/User/Desktop/VR DEV/OSVR-Core-Snapshot-v0.6-2118-gd690c5ef-build3-vs12-64bit/lib/cmake/osvr/CMakeBoostHelper.cmake
+C:/Users/User/Desktop/VR DEV/OSVR-Core-Snapshot-v0.6-2118-gd690c5ef-build3-vs12-64bit/lib/cmake/osvr/GetMSVCVersion.cmake
+C:/Users/User/Desktop/VR DEV/OSVR-Core-Snapshot-v0.6-2118-gd690c5ef-build3-vs12-64bit/lib/cmake/osvr/osvrAddPlugin.cmake
+C:/Users/User/Desktop/VR DEV/OSVR-Core-Snapshot-v0.6-2118-gd690c5ef-build3-vs12-64bit/lib/cmake/osvr/osvrConfig.cmake
+C:/Users/User/Desktop/VR DEV/OSVR-Core-Snapshot-v0.6-2118-gd690c5ef-build3-vs12-64bit/lib/cmake/osvr/osvrConfigInstalledBoost.cmake
+C:/Users/User/Desktop/VR DEV/OSVR-Core-Snapshot-v0.6-2118-gd690c5ef-build3-vs12-64bit/lib/cmake/osvr/osvrConfigInstalledOpenCV.cmake
+C:/Users/User/Desktop/VR DEV/OSVR-Core-Snapshot-v0.6-2118-gd690c5ef-build3-vs12-64bit/lib/cmake/osvr/osvrConfigVersion.cmake
+C:/Users/User/Desktop/VR DEV/OSVR-Core-Snapshot-v0.6-2118-gd690c5ef-build3-vs12-64bit/lib/cmake/osvr/osvrConvertJson.cmake
+C:/Users/User/Desktop/VR DEV/OSVR-Core-Snapshot-v0.6-2118-gd690c5ef-build3-vs12-64bit/lib/cmake/osvr/osvrTargets-debug.cmake
+C:/Users/User/Desktop/VR DEV/OSVR-Core-Snapshot-v0.6-2118-gd690c5ef-build3-vs12-64bit/lib/cmake/osvr/osvrTargets-relwithdebinfo.cmake
+C:/Users/User/Desktop/VR DEV/OSVR-Core-Snapshot-v0.6-2118-gd690c5ef-build3-vs12-64bit/lib/cmake/osvr/osvrTargets.cmake
+C:/Users/User/Desktop/VReal-master/BNO055_IMU_Tracker/CMakeLists.txt
+C:/Users/User/Desktop/VReal-master/BNO055_IMU_Tracker/build/CMakeFiles/3.12.1/CMakeCCompiler.cmake
+C:/Users/User/Desktop/VReal-master/BNO055_IMU_Tracker/build/CMakeFiles/3.12.1/CMakeCXXCompiler.cmake
+C:/Users/User/Desktop/VReal-master/BNO055_IMU_Tracker/build/CMakeFiles/3.12.1/CMakeRCCompiler.cmake
+C:/Users/User/Desktop/VReal-master/BNO055_IMU_Tracker/build/CMakeFiles/3.12.1/CMakeSystem.cmake

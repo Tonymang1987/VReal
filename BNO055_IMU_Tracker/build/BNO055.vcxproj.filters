@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\User\Desktop\VReal-master\BNO055_IMU_Tracker\BNO055.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\User\Desktop\VReal-master\BNO055_IMU_Tracker\build\BNO055.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Desktop\VReal-master\BNO055_IMU_Tracker\BNO055.json" />
+    <CustomBuild Include="C:\Users\User\Desktop\VReal-master\BNO055_IMU_Tracker\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{AA40EF45-7F61-34DB-9E96-0793F3A684F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1DD3B3EB-4F03-3DA0-BDA9-DD601D422FAA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

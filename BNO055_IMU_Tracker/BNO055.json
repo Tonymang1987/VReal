@@ -1,0 +1,17 @@
+{
+  "deviceVendor": "Vreal HMD",
+  "deviceName": "BNO055_IMU",
+  "author": "Anthony Deyoung<Tonydeyoung@hotmail.ca",
+  "version": "1.0",
+  "lastModified": "2018-09-09",
+  "interfaces": {
+    "tracker": {
+      "count": 1,
+      "position": false,
+      "orientation": true
+    }
+  },
+  "semantic": {
+    "IMU": "tracker/0"
+  }
+}

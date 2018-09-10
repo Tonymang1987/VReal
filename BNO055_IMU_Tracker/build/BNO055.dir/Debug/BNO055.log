@@ -1,0 +1,202 @@
+﻿  [osvr_convert_json] Generating string literal header from BNO055.json
+  Building Custom Rule C:/Users/User/Desktop/VReal-master/BNO055_IMU_Tracker/CMakeLists.txt
+  CMake is re-running because C:/Users/User/Desktop/VReal-master/BNO055_IMU_Tracker/build/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/Users/User/Desktop/VReal-master/BNO055_IMU_Tracker/CMakeLists.txt'
+    is newer than 'C:/Users/User/Desktop/VReal-master/BNO055_IMU_Tracker/build/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Configuring done
+  CMake Error in CMakeLists.txt:
+    Imported target "osvr::osvrPluginKitCpp" includes non-existent path
+  
+      "Boost_INCLUDE_DIR-NOTFOUND"
+  
+    in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+  
+    * The path was deleted, renamed, or moved to another location.
+  
+    * An install or uninstall procedure did not complete successfully.
+  
+    * The installation package was faulty and references files it does not
+    provide.
+  
+  
+  
+  CMake Error in CMakeLists.txt:
+    Imported target "osvr::osvrPluginKitCpp" includes non-existent path
+  
+      "Boost_INCLUDE_DIR-NOTFOUND"
+  
+    in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+  
+    * The path was deleted, renamed, or moved to another location.
+  
+    * An install or uninstall procedure did not complete successfully.
+  
+    * The installation package was faulty and references files it does not
+    provide.
+  
+  
+  
+  CMake Error in CMakeLists.txt:
+    Imported target "osvr::osvrPluginKitCpp" includes non-existent path
+  
+      "Boost_INCLUDE_DIR-NOTFOUND"
+  
+    in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+  
+    * The path was deleted, renamed, or moved to another location.
+  
+    * An install or uninstall procedure did not complete successfully.
+  
+    * The installation package was faulty and references files it does not
+    provide.
+  
+  
+  
+  CMake Error in CMakeLists.txt:
+    Imported target "osvr::osvrPluginKitCpp" includes non-existent path
+  
+      "Boost_INCLUDE_DIR-NOTFOUND"
+  
+    in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+  
+    * The path was deleted, renamed, or moved to another location.
+  
+    * An install or uninstall procedure did not complete successfully.
+  
+    * The installation package was faulty and references files it does not
+    provide.
+  
+  
+  
+  CMake Error in CMakeLists.txt:
+    Imported target "osvr::osvrPluginKitCpp" includes non-existent path
+  
+      "Boost_INCLUDE_DIR-NOTFOUND"
+  
+    in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+  
+    * The path was deleted, renamed, or moved to another location.
+  
+    * An install or uninstall procedure did not complete successfully.
+  
+    * The installation package was faulty and references files it does not
+    provide.
+  
+  
+  
+  CMake Error in CMakeLists.txt:
+    Imported target "osvr::osvrPluginKitCpp" includes non-existent path
+  
+      "Boost_INCLUDE_DIR-NOTFOUND"
+  
+    in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+  
+    * The path was deleted, renamed, or moved to another location.
+  
+    * An install or uninstall procedure did not complete successfully.
+  
+    * The installation package was faulty and references files it does not
+    provide.
+  
+  
+  
+  CMake Error in CMakeLists.txt:
+    Imported target "osvr::osvrPluginKitCpp" includes non-existent path
+  
+      "Boost_INCLUDE_DIR-NOTFOUND"
+  
+    in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+  
+    * The path was deleted, renamed, or moved to another location.
+  
+    * An install or uninstall procedure did not complete successfully.
+  
+    * The installation package was faulty and references files it does not
+    provide.
+  
+  
+  
+  CMake Error in CMakeLists.txt:
+    Imported target "osvr::osvrPluginKitCpp" includes non-existent path
+  
+      "Boost_INCLUDE_DIR-NOTFOUND"
+  
+    in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+  
+    * The path was deleted, renamed, or moved to another location.
+  
+    * An install or uninstall procedure did not complete successfully.
+  
+    * The installation package was faulty and references files it does not
+    provide.
+  
+  
+  
+  CMake Error in CMakeLists.txt:
+    Imported target "osvr::osvrPluginKitCpp" includes non-existent path
+  
+      "Boost_INCLUDE_DIR-NOTFOUND"
+  
+    in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+  
+    * The path was deleted, renamed, or moved to another location.
+  
+    * An install or uninstall procedure did not complete successfully.
+  
+    * The installation package was faulty and references files it does not
+    provide.
+  
+  
+  
+  CMake Error in CMakeLists.txt:
+    Imported target "osvr::osvrPluginKitCpp" includes non-existent path
+  
+      "Boost_INCLUDE_DIR-NOTFOUND"
+  
+    in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+  
+    * The path was deleted, renamed, or moved to another location.
+  
+    * An install or uninstall procedure did not complete successfully.
+  
+    * The installation package was faulty and references files it does not
+    provide.
+  
+  
+  
+  CMake Error in CMakeLists.txt:
+    Imported target "osvr::osvrPluginKitCpp" includes non-existent path
+  
+      "Boost_INCLUDE_DIR-NOTFOUND"
+  
+    in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+  
+    * The path was deleted, renamed, or moved to another location.
+  
+    * An install or uninstall procedure did not complete successfully.
+  
+    * The installation package was faulty and references files it does not
+    provide.
+  
+  
+  
+  CMake Error in CMakeLists.txt:
+    Imported target "osvr::osvrPluginKitCpp" includes non-existent path
+  
+      "Boost_INCLUDE_DIR-NOTFOUND"
+  
+    in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+  
+    * The path was deleted, renamed, or moved to another location.
+  
+    * An install or uninstall procedure did not complete successfully.
+  
+    * The installation package was faulty and references files it does not
+    provide.
+  
+  
+  
+  -- Generating done
+  -- Build files have been written to: C:/Users/User/Desktop/VReal-master/BNO055_IMU_Tracker/build
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(171,5): error MSB6006: "cmd.exe" exited with code 1.
